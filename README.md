@@ -17,16 +17,16 @@
 
 
 <p align="center">
-  <a href="https://t.me/your_telegram" target="_blank">
+  <a href="https://t.me/Kamilayza" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://vk.com/your_vk" target="_blank">
+  <a href="https://vk.com/anas_efr" target="_blank">
     <img src="https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
   </a>
-  <a href="mailto:your_yandex_mail@yandex.ru" target="_blank">
+  <a href="mailto:KamillaYesa@yandex.ru" target="_blank">
     <img src="https://img.shields.io/badge/Yandex.Mail-FFCC00?style=for-the-badge&logo=yandex&logoColor=black" alt="Yandex.Mail">
   </a>
-  <a href="mailto:your_gmail@gmail.com" target="_blank">
+  <a href="mailto:efremova0anastasia0serg0@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
