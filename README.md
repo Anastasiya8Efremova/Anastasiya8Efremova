@@ -36,38 +36,24 @@
 
 <h3 align="center">Технологии</h3>
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-  </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/apps/aspnet/apis" target="_blank">
-    <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core">
-  </a>
-  <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank">
-    <img src="https://img.shields.io/badge/Entity%20Framework-7A2A35?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework">
-  </a>
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-6.0" target="_blank">
-    <img src="https://img.shields.io/badge/WebAPI-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="WebAPI">
-  </a>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/Entity%20Framework-7A2A35?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework">
+  <img src="https://img.shields.io/badge/WebAPI-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt="WebAPI">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 <h3 align="center">Инструменты</h3>
 <p align="center">
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MS%20Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="MS Visual Studio">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
-  </a>
-  <a href="https://docs.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms" target="_blank">
-    <img src="https://img.shields.io/badge/MS%20SQL%20-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL">
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  </a>
+  <img src="https://img.shields.io/badge/MS%20Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="MS Visual Studio">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+  <img src="https://img.shields.io/badge/MS%20SQL%20-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </p>
+
 
 
 
