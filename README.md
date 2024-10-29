@@ -51,9 +51,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MS%20Visual%20Studio-5C2D91?style=for-the-badge&labelColor=5C2D91&color=5C2D91&logoColor=white&logo=visualstudio" alt="MS Visual Studio">
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&labelColor=007ACC&color=007ACC&logoColor=white&logo=visual-studio-code" alt="Visual Studio Code">
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&labelColor=CC2927&color=CC2927&logoColor=white&logo=microsoft-sql-server" alt="MS SQL">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=4169E1&color=4169E1&logoColor=white&logo=postgresql" alt="PostgreSQL">
 </p>
+
 
 <!--
 
