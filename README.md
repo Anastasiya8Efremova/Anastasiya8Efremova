@@ -37,31 +37,45 @@
 
 <hr/>
 
-<h3 align="center">🛠️ Технологии</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&labelColor=239120&color=239120&logoColor=white&logo=c-sharp" alt="C#">
-  <img src="https://img.shields.io/badge/Entity%20Framework-7A2A35?style=for-the-badge&labelColor=7A2A35&color=7A2A35&logoColor=white&logo=dotnet" alt="Entity Framework">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=003B57&color=003B57&logoColor=white&logo=postgresql" alt="SQL">
-  <img src="https://img.shields.io/badge/WebAPI-512BD4?style=for-the-badge&labelColor=512BD4&color=512BD4&logoColor=white&logo=.net" alt="WebAPI">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&labelColor=512BD4&color=512BD4&logoColor=white&logo=.net" alt="ASP.NET Core">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=E34F26&color=E34F26&logoColor=white&logo=html5" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=1572B6&color=1572B6&logoColor=white&logo=css3" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=F7DF1E&color=F7DF1E&logoColor=black&logo=javascript" alt="JavaScript">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>🖥️ Технологии</h3>
+    </td>
+    <td align="center">
+      <h3>🔧 Инструменты</h3>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&labelColor=239120&color=239120&logoColor=white&logo=c-sharp" alt="C#">
+        <img src="https://img.shields.io/badge/Entity%20Framework-7A2A35?style=for-the-badge&labelColor=7A2A35&color=7A2A35&logoColor=white&logo=dotnet" alt="Entity Framework">
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=003B57&color=003B57&logoColor=white&logo=postgresql" alt="SQL">
+        <img src="https://img.shields.io/badge/WebAPI-512BD4?style=for-the-badge&labelColor=512BD4&color=512BD4&logoColor=white&logo=.net" alt="WebAPI">
+        <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&labelColor=512BD4&color=512BD4&logoColor=white&logo=.net" alt="ASP.NET Core">
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&labelColor=E34F26&color=E34F26&logoColor=white&logo=html5" alt="HTML">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&labelColor=1572B6&color=1572B6&logoColor=white&logo=css3" alt="CSS">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=F7DF1E&color=F7DF1E&logoColor=black&logo=javascript" alt="JavaScript">
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MS%20Visual%20Studio-5C2D91?style=for-the-badge&labelColor=5C2D91&color=5C2D91&logoColor=white&logo=visualstudio" alt="MS Visual Studio">
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&labelColor=007ACC&color=007ACC&logoColor=white&logo=visual-studio-code" alt="Visual Studio Code">
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&labelColor=CC2927&color=CC2927&logoColor=white&logo=microsoft-sql-server" alt="MS SQL">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=4169E1&color=4169E1&logoColor=white&logo=postgresql" alt="PostgreSQL">
+      </p>
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">🛠️ Инструменты</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MS%20Visual%20Studio-5C2D91?style=for-the-badge&labelColor=5C2D91&color=5C2D91&logoColor=white&logo=visualstudio" alt="MS Visual Studio">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&labelColor=007ACC&color=007ACC&logoColor=white&logo=visual-studio-code" alt="Visual Studio Code">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=for-the-badge&labelColor=CC2927&color=CC2927&logoColor=white&logo=microsoft-sql-server" alt="MS SQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=4169E1&color=4169E1&logoColor=white&logo=postgresql" alt="PostgreSQL">
-</p>
 
 <!--
 
