@@ -76,17 +76,8 @@
   </tr>
 </table>
 
-<!--
 <hr/>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anastasiya8Efremova&repo=VisiMonePlan&theme=city_lights)](https://github.com/Anastasiya8Efremova/VisiMonePlan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anastasiya8Efremova&repo=VisiMonePlan&theme=github_dark)](https://github.com/Anastasiya8Efremova/VisiMonePlan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anastasiya8Efremova&repo=VisiMonePlan&theme=gotham)](https://github.com/Anastasiya8Efremova/VisiMonePlan)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anastasiya8Efremova&repo=VisiMonePlan&theme=transparent)](https://github.com/Anastasiya8Efremova/VisiMonePlan)
--->
-
-<!--
-<hr/>
 <table>
     <tr>
         <th>Проект</th>
@@ -99,7 +90,18 @@
         <td></td>
     </tr>
 </table>
+
+
+
+<!--
+<hr/>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anastasiya8Efremova&repo=VisiMonePlan&theme=city_lights)](https://github.com/Anastasiya8Efremova/VisiMonePlan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anastasiya8Efremova&repo=VisiMonePlan&theme=github_dark)](https://github.com/Anastasiya8Efremova/VisiMonePlan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anastasiya8Efremova&repo=VisiMonePlan&theme=gotham)](https://github.com/Anastasiya8Efremova/VisiMonePlan)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anastasiya8Efremova&repo=VisiMonePlan&theme=transparent)](https://github.com/Anastasiya8Efremova/VisiMonePlan)
 -->
+
 
 <!--
 
