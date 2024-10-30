@@ -78,6 +78,7 @@
 
 <hr/>
 
+<!--
 <table>
     <tr>
         <th>Проект</th>
@@ -85,11 +86,25 @@
         <th>Описание</th>
     </tr>
     <tr>
-        <td></td>
-        <td></td>
-        <td></td>
+        <td>
+            [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anastasiya8Efremova&repo=VisiMonePlan&theme=gotham)](https://github.com/Anastasiya8Efremova/VisiMonePlan)
+        </td>
+        <td>
+            <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
+            <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core">
+            <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SSMS">
+            <img src="https://img.shields.io/badge/MVC-5C2D91?style=flat&logo=dotnet&logoColor=white" alt="MVC">
+            <img src="https://img.shields.io/badge/MVVM-2C3E50?style=flat" alt="MVVM">
+        </td>
+        <td>Прототип сайт для введения финансов проектов</td>
     </tr>
 </table>
+-->
+
+| Проект | Технологии | Описание |
+|--------|------------|----------|
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Anastasiya8Efremova&repo=VisiMonePlan&theme=gotham)](https://github.com/Anastasiya8Efremova/VisiMonePlan) | <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core"> <img src="https://img.shields.io/badge/SSMS-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" alt="SSMS"> <img src="https://img.shields.io/badge/MVC-5C2D91?style=flat&logo=dotnet&logoColor=white" alt="MVC"> <img src="https://img.shields.io/badge/MVVM-2C3E50?style=flat" alt="MVVM"> | Прототип сайт для введения финансов проектов |
+
 
 
 
