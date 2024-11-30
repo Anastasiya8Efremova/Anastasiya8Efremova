@@ -27,7 +27,7 @@
   <a href="https://vk.com/anas_efr" target="_blank">
     <img src="https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white" alt="VK">
   </a>
-  <a href="mailto:KamillaYesa@yandex.ru" target="_blank">
+  <a href="mailto:nasiaefreva@yandex.ru" target="_blank">
     <img src="https://img.shields.io/badge/Yandex.Mail-FFCC00?style=for-the-badge&logo=yandex&logoColor=black" alt="Yandex.Mail">
   </a>
   <a href="mailto:efremova0anastasia0serg0@gmail.com" target="_blank">
